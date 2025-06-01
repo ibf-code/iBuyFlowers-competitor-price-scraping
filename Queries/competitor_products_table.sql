@@ -1,0 +1,1 @@
+select * from `ibuyflower-dwh.competitor_product_mapping.competitor_product_mapping`

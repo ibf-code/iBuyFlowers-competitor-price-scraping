@@ -1,0 +1,13 @@
+aiohttp==3.11.16
+httpx==0.28.1
+numpy==2.2.6
+openai==1.82.1
+pandas==2.2.3
+pandas_gbq==0.28.0
+protobuf==6.31.1
+pydantic==2.11.5
+python-dotenv==1.1.0
+Requests==2.32.3
+scikit_learn==1.6.1
+selectolax==0.3.28
+tqdm==4.67.1

@@ -1,0 +1,9 @@
+.env
+service_key.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
