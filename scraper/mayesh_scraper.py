@@ -55,7 +55,7 @@ async def fetch_mayesh_products(eta_date):
         product = extract_mayesh_product(raw)
         if product:
             product = product.model_copy(update={"eta_date": eta_date}) 
-            all_products.append(product.dict())  # Convert to dict here
+            all_products.append(product.dict()) 
     os.makedirs("output/mayesh", exist_ok=True)
     save_products_to_csv(all_products, f"output/mayesh/mayesh_inventory_{eta_date}.csv")        
     return all_products 
