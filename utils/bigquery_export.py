@@ -12,7 +12,7 @@ from utils.slack_notifier import _slack
 load_dotenv()
 credentials = service_account.Credentials.from_service_account_file("service_key.json")
 project_id = os.getenv("PROJECT_ID")
-dataset_id = "competitor_price"
+dataset_id = os.getenv("DATASET_ID")
 logger = get_logger(__name__, log_files="bigquery_export.log")
 
 BIGQUERY_FIELDS = {

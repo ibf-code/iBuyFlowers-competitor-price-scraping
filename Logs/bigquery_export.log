@@ -38,3 +38,11 @@
 2025-06-01 23:18:15,859 [INFO] utils.bigquery_export: ✅ Uploaded 1615 products to competitor_price.mayesh.
 2025-06-01 23:18:50,333 [INFO] utils.bigquery_export: ✅ Uploaded 1341 products to competitor_price.dvflora.
 2025-06-01 23:19:28,126 [INFO] utils.bigquery_export: ✅ Uploaded 1446 products to competitor_price.flowermarketplace.
+2025-06-02 09:12:34,736 [INFO] utils.bigquery_export: ✅ Uploaded 3220 products to competitor_price.petaljet.
+2025-06-02 09:12:39,030 [INFO] utils.bigquery_export: ✅ Uploaded 1615 products to competitor_price.mayesh.
+2025-06-02 09:13:25,993 [INFO] utils.bigquery_export: ✅ Uploaded 1331 products to competitor_price.dvflora.
+2025-06-02 09:14:05,334 [INFO] utils.bigquery_export: ✅ Uploaded 1446 products to competitor_price.flowermarketplace.
+2025-06-02 09:29:36,002 [INFO] utils.bigquery_export: ✅ Uploaded 3220 products to competitor_price.petaljet.
+2025-06-02 09:29:39,017 [INFO] utils.bigquery_export: ✅ Uploaded 1615 products to competitor_price.mayesh.
+2025-06-02 09:30:17,514 [INFO] utils.bigquery_export: ✅ Uploaded 1331 products to competitor_price.dvflora.
+2025-06-02 09:30:55,317 [INFO] utils.bigquery_export: ✅ Uploaded 1446 products to competitor_price.flowermarketplace.
