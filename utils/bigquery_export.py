@@ -19,7 +19,7 @@ BIGQUERY_FIELDS = {
     "mayesh": [
         "created_at", "eta_date", "state", "competitor", "grower_name", "grower_country",
         "competitor_product_id", "stem_length", "color_name", "available_units",
-        "stems_per_unit", "stem_price", "margin", "unit_price", "unit", "competitor_product_name"
+        "stems_per_unit", "stem_price", "margin", "unit_price", "competitor_product_name"
     ],
     "petaljet": [
         "competitor", "competitor_product_id", "competitor_product_name",
