@@ -65,7 +65,7 @@ def export_products_to_bigquery(products, table_name):
         df_filtered,
         table_id,
         project_id=project_id,
-        if_exists="replace", 
+        if_exists="append", #replace
         credentials=credentials,
         progress_bar=True
     )
