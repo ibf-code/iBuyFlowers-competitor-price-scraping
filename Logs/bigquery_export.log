@@ -47,3 +47,6 @@
 2025-06-02 09:30:17,514 [INFO] utils.bigquery_export: ✅ Uploaded 1331 products to competitor_price.dvflora.
 2025-06-02 09:30:55,317 [INFO] utils.bigquery_export: ✅ Uploaded 1446 products to competitor_price.flowermarketplace.
 2025-06-02 09:33:40,845 [INFO] utils.bigquery_export: ✅ Uploaded 3220 products to competitor_prices.petaljet.
+2025-06-02 09:34:29,724 [INFO] utils.bigquery_export: ✅ Uploaded 3220 products to competitor_prices.petaljet.
+2025-06-02 09:34:33,403 [INFO] utils.bigquery_export: ✅ Uploaded 1615 products to competitor_prices.mayesh.
+2025-06-02 09:35:09,595 [INFO] utils.bigquery_export: ✅ Uploaded 1331 products to competitor_prices.dvflora.

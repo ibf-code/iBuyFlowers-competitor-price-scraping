@@ -29,7 +29,7 @@ BIGQUERY_FIELDS = {
     "flowermarketplace": [
         "created_at", "eta_date", "competitor", "competitor_product_id",
         "competitor_product_name", "competitor_product_group_name",
-        "stem_length", "stems_per_unit", "unit_price", "stem_price"
+        "stem_length", "unit_price", "stem_price"
     ],
     "dvflora": [
         "created_at", "eta_date", "competitor_product_id", "competitor",
