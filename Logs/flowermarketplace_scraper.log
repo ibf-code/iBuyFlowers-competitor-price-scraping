@@ -13,3 +13,5 @@
 2025-06-02 09:33:39,509 [INFO] scraper.flowermarketplace_scraper: Detected total pages: 37
 2025-06-02 09:34:28,864 [INFO] scraper.flowermarketplace_scraper: Detected total pages: 37
 2025-06-02 09:38:26,631 [INFO] scraper.flowermarketplace_scraper: Detected total pages: 37
+2025-06-02 09:41:39,015 [INFO] __main__: Detected total pages: 37
+2025-06-02 09:43:06,536 [INFO] __main__: ✅ Scraped 1446 products.
