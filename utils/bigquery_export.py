@@ -23,7 +23,7 @@ BIGQUERY_FIELDS = {
     ],
     "petaljet": [
         "competitor", "competitor_product_id", "competitor_product_name",
-        "competitor_product_group_name", "color", "stem_length", "stems_per_unit",
+        "competitor_product_group_name", "color_name", "stem_length", "stems_per_unit",
         "unit_price", "stem_price", "created_at", "eta_date", "flowermarketplace"
     ],
     "flowermarketplace": [
