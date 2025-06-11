@@ -8,7 +8,7 @@ def extract_flowermarketplace_product(raw_product):
     stem_price = None
     prices_data = raw_product.get("prices_data", [])
 
-    for selection in ["three", "one"]:
+    for selection in ["one", "three"]:  ## Defeault is Pricing one ( highest price) , fallback is option three cheapest
         for tier in prices_data:
             if tier.get("selection") == selection:
                 try:
